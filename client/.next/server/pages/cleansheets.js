@@ -1,0 +1,164 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(() => {
+var exports = {};
+exports.id = "pages/cleansheets";
+exports.ids = ["pages/cleansheets"];
+exports.modules = {
+
+/***/ "./components/UI/card/card.module.css":
+/*!********************************************!*\
+  !*** ./components/UI/card/card.module.css ***!
+  \********************************************/
+/***/ ((module) => {
+
+eval("// Exports\nmodule.exports = {\n\t\"card\": \"card_card__7V4Xn\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL1VJL2NhcmQvY2FyZC5tb2R1bGUuY3NzLmpzIiwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vY29tcG9uZW50cy9VSS9jYXJkL2NhcmQubW9kdWxlLmNzcz80NmYxIl0sInNvdXJjZXNDb250ZW50IjpbIi8vIEV4cG9ydHNcbm1vZHVsZS5leHBvcnRzID0ge1xuXHRcImNhcmRcIjogXCJjYXJkX2NhcmRfXzdWNFhuXCJcbn07XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./components/UI/card/card.module.css\n");
+
+/***/ }),
+
+/***/ "./components/UI/container/container.module.css":
+/*!******************************************************!*\
+  !*** ./components/UI/container/container.module.css ***!
+  \******************************************************/
+/***/ ((module) => {
+
+eval("// Exports\nmodule.exports = {\n\t\"container\": \"container_container__Ymk_9\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL1VJL2NvbnRhaW5lci9jb250YWluZXIubW9kdWxlLmNzcy5qcyIsIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0E7QUFDQSIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL2NvbXBvbmVudHMvVUkvY29udGFpbmVyL2NvbnRhaW5lci5tb2R1bGUuY3NzPzVjZmQiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gRXhwb3J0c1xubW9kdWxlLmV4cG9ydHMgPSB7XG5cdFwiY29udGFpbmVyXCI6IFwiY29udGFpbmVyX2NvbnRhaW5lcl9fWW1rXzlcIlxufTtcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./components/UI/container/container.module.css\n");
+
+/***/ }),
+
+/***/ "./components/UI/grid/grid.module.css":
+/*!********************************************!*\
+  !*** ./components/UI/grid/grid.module.css ***!
+  \********************************************/
+/***/ ((module) => {
+
+eval("// Exports\nmodule.exports = {\n\t\"grid\": \"grid_grid__hNp1T\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL1VJL2dyaWQvZ3JpZC5tb2R1bGUuY3NzLmpzIiwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vY29tcG9uZW50cy9VSS9ncmlkL2dyaWQubW9kdWxlLmNzcz8yMzA0Il0sInNvdXJjZXNDb250ZW50IjpbIi8vIEV4cG9ydHNcbm1vZHVsZS5leHBvcnRzID0ge1xuXHRcImdyaWRcIjogXCJncmlkX2dyaWRfX2hOcDFUXCJcbn07XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./components/UI/grid/grid.module.css\n");
+
+/***/ }),
+
+/***/ "./components/UI/table/table.module.css":
+/*!**********************************************!*\
+  !*** ./components/UI/table/table.module.css ***!
+  \**********************************************/
+/***/ ((module) => {
+
+eval("// Exports\nmodule.exports = {\n\t\"table\": \"table_table___qp_F\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL1VJL3RhYmxlL3RhYmxlLm1vZHVsZS5jc3MuanMiLCJtYXBwaW5ncyI6IkFBQUE7QUFDQTtBQUNBO0FBQ0EiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL1VJL3RhYmxlL3RhYmxlLm1vZHVsZS5jc3M/YmJmNSJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBFeHBvcnRzXG5tb2R1bGUuZXhwb3J0cyA9IHtcblx0XCJ0YWJsZVwiOiBcInRhYmxlX3RhYmxlX19fcXBfRlwiXG59O1xuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/UI/table/table.module.css\n");
+
+/***/ }),
+
+/***/ "./components/UI/card/card.js":
+/*!************************************!*\
+  !*** ./components/UI/card/card.js ***!
+  \************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Card)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _card_module_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./card.module.css */ \"./components/UI/card/card.module.css\");\n/* harmony import */ var _card_module_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_card_module_css__WEBPACK_IMPORTED_MODULE_1__);\n\n\nfunction Card({ children  }) {\n    return(/*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: (_card_module_css__WEBPACK_IMPORTED_MODULE_1___default().card),\n        children: children\n    }, void 0, false, {\n        fileName: \"/Users/theodore/dev/shakuchiefs/client/components/UI/card/card.js\",\n        lineNumber: 4,\n        columnNumber: 10\n    }, this));\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL1VJL2NhcmQvY2FyZC5qcy5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7QUFBc0M7QUFFdkIsUUFBUSxDQUFDQyxJQUFJLENBQUMsQ0FBQyxDQUFDQyxRQUFRLEVBQUMsQ0FBQyxFQUFFLENBQUM7SUFDMUMsTUFBTSw2RUFBRUMsQ0FBRztRQUFDQyxTQUFTLEVBQUVKLDhEQUFXO2tCQUFHRSxRQUFROzs7Ozs7QUFDL0MsQ0FBQyIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL2NvbXBvbmVudHMvVUkvY2FyZC9jYXJkLmpzPzgyZTIiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHN0eWxlcyBmcm9tICcuL2NhcmQubW9kdWxlLmNzcyc7XG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIENhcmQoeyBjaGlsZHJlbiB9KSB7XG4gIHJldHVybiA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmNhcmR9PntjaGlsZHJlbn08L2Rpdj5cbn0iXSwibmFtZXMiOlsic3R5bGVzIiwiQ2FyZCIsImNoaWxkcmVuIiwiZGl2IiwiY2xhc3NOYW1lIiwiY2FyZCJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./components/UI/card/card.js\n");
+
+/***/ }),
+
+/***/ "./components/UI/container/container.js":
+/*!**********************************************!*\
+  !*** ./components/UI/container/container.js ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Container)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _container_module_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./container.module.css */ \"./components/UI/container/container.module.css\");\n/* harmony import */ var _container_module_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_container_module_css__WEBPACK_IMPORTED_MODULE_1__);\n\n\nfunction Container({ children  }) {\n    return(/*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: (_container_module_css__WEBPACK_IMPORTED_MODULE_1___default().container),\n        children: children\n    }, void 0, false, {\n        fileName: \"/Users/theodore/dev/shakuchiefs/client/components/UI/container/container.js\",\n        lineNumber: 4,\n        columnNumber: 10\n    }, this));\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL1VJL2NvbnRhaW5lci9jb250YWluZXIuanMuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7O0FBQTJDO0FBRTVCLFFBQVEsQ0FBQ0MsU0FBUyxDQUFDLENBQUMsQ0FBQ0MsUUFBUSxFQUFDLENBQUMsRUFBRSxDQUFDO0lBQy9DLE1BQU0sNkVBQUVDLENBQUc7UUFBQ0MsU0FBUyxFQUFFSix3RUFBZ0I7a0JBQUdFLFFBQVE7Ozs7OztBQUNwRCxDQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vY29tcG9uZW50cy9VSS9jb250YWluZXIvY29udGFpbmVyLmpzPzY4NTgiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHN0eWxlcyBmcm9tICcuL2NvbnRhaW5lci5tb2R1bGUuY3NzJ1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBDb250YWluZXIoeyBjaGlsZHJlbiB9KSB7XG4gIHJldHVybiA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmNvbnRhaW5lcn0+e2NoaWxkcmVufTwvZGl2PlxufSJdLCJuYW1lcyI6WyJzdHlsZXMiLCJDb250YWluZXIiLCJjaGlsZHJlbiIsImRpdiIsImNsYXNzTmFtZSIsImNvbnRhaW5lciJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./components/UI/container/container.js\n");
+
+/***/ }),
+
+/***/ "./components/UI/grid/grid.js":
+/*!************************************!*\
+  !*** ./components/UI/grid/grid.js ***!
+  \************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Grid)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _grid_module_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./grid.module.css */ \"./components/UI/grid/grid.module.css\");\n/* harmony import */ var _grid_module_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_grid_module_css__WEBPACK_IMPORTED_MODULE_1__);\n\n\nfunction Grid({ children  }) {\n    return(/*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: (_grid_module_css__WEBPACK_IMPORTED_MODULE_1___default().grid),\n        children: children\n    }, void 0, false, {\n        fileName: \"/Users/theodore/dev/shakuchiefs/client/components/UI/grid/grid.js\",\n        lineNumber: 4,\n        columnNumber: 10\n    }, this));\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL1VJL2dyaWQvZ3JpZC5qcy5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7QUFBc0M7QUFFdkIsUUFBUSxDQUFDQyxJQUFJLENBQUMsQ0FBQyxDQUFDQyxRQUFRLEVBQUMsQ0FBQyxFQUFFLENBQUM7SUFDMUMsTUFBTSw2RUFBRUMsQ0FBRztRQUFDQyxTQUFTLEVBQUVKLDhEQUFXO2tCQUFHRSxRQUFROzs7Ozs7QUFDL0MsQ0FBQyIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL2NvbXBvbmVudHMvVUkvZ3JpZC9ncmlkLmpzPzQ5MWQiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHN0eWxlcyBmcm9tICcuL2dyaWQubW9kdWxlLmNzcyc7XG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEdyaWQoeyBjaGlsZHJlbiB9KSB7XG4gIHJldHVybiA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmdyaWR9PntjaGlsZHJlbn08L2Rpdj5cbn0iXSwibmFtZXMiOlsic3R5bGVzIiwiR3JpZCIsImNoaWxkcmVuIiwiZGl2IiwiY2xhc3NOYW1lIiwiZ3JpZCJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./components/UI/grid/grid.js\n");
+
+/***/ }),
+
+/***/ "./components/UI/table/table.js":
+/*!**************************************!*\
+  !*** ./components/UI/table/table.js ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Table)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _card_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../card/card */ \"./components/UI/card/card.js\");\n/* harmony import */ var _table_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./table.module.css */ \"./components/UI/table/table.module.css\");\n/* harmony import */ var _table_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_table_module_css__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\nfunction Table(props) {\n    const data = props.data;\n    const columns = props.columns;\n    console.log(data);\n    return(// TODO: convert to MUI\n    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"table\", {\n        className: (_table_module_css__WEBPACK_IMPORTED_MODULE_2___default().table),\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"thead\", {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"tr\", {\n                    children: columns.map((col)=>/*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"th\", {\n                            children: col.title\n                        }, col.id, false, {\n                            fileName: \"/Users/theodore/dev/shakuchiefs/client/components/UI/table/table.js\",\n                            lineNumber: 15,\n                            columnNumber: 13\n                        }, this)\n                    )\n                }, void 0, false, {\n                    fileName: \"/Users/theodore/dev/shakuchiefs/client/components/UI/table/table.js\",\n                    lineNumber: 13,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/Users/theodore/dev/shakuchiefs/client/components/UI/table/table.js\",\n                lineNumber: 12,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"tbody\", {\n                children: data.map((team, i)=>/*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"tr\", {\n                        children: columns.map((col)=>/*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"td\", {\n                                children: col.title == \"Position\" ? i + 1 : team[col.accessor]\n                            }, col.id, false, {\n                                fileName: \"/Users/theodore/dev/shakuchiefs/client/components/UI/table/table.js\",\n                                lineNumber: 23,\n                                columnNumber: 15\n                            }, this)\n                        )\n                    }, i, false, {\n                        fileName: \"/Users/theodore/dev/shakuchiefs/client/components/UI/table/table.js\",\n                        lineNumber: 21,\n                        columnNumber: 11\n                    }, this)\n                )\n            }, void 0, false, {\n                fileName: \"/Users/theodore/dev/shakuchiefs/client/components/UI/table/table.js\",\n                lineNumber: 19,\n                columnNumber: 7\n            }, this)\n        ]\n    }, void 0, true, {\n        fileName: \"/Users/theodore/dev/shakuchiefs/client/components/UI/table/table.js\",\n        lineNumber: 11,\n        columnNumber: 5\n    }, this));\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL1VJL3RhYmxlL3RhYmxlLmpzLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7QUFBK0I7QUFDUTtBQUV4QixRQUFRLENBQUNFLEtBQUssQ0FBQ0MsS0FBSyxFQUFFLENBQUM7SUFDcEMsS0FBSyxDQUFDQyxJQUFJLEdBQUdELEtBQUssQ0FBQ0MsSUFBSTtJQUN2QixLQUFLLENBQUNDLE9BQU8sR0FBR0YsS0FBSyxDQUFDRSxPQUFPO0lBRTdCQyxPQUFPLENBQUNDLEdBQUcsQ0FBQ0gsSUFBSTtJQUNoQixNQUFNLENBQ0osRUFBdUI7Z0ZBQ3RCSSxDQUFLO1FBQUNDLFNBQVMsRUFBRVIsZ0VBQVk7O3dGQUMzQlMsQ0FBSztzR0FDSEMsQ0FBRTs4QkFDQU4sT0FBTyxDQUFDTyxHQUFHLEVBQUVDLEdBQUcsK0VBQ2RDLENBQUU7c0NBQWVELEdBQUcsQ0FBQ0UsS0FBSzsyQkFBbEJGLEdBQUcsQ0FBQ0csRUFBRTs7Ozs7Ozs7Ozs7Ozs7Ozt3RkFJcEJDLENBQUs7MEJBQ0hiLElBQUksQ0FBQ1EsR0FBRyxFQUFFTSxJQUFJLEVBQUVDLENBQUMsK0VBQ2ZSLENBQUU7a0NBQ0FOLE9BQU8sQ0FBQ08sR0FBRyxFQUFFQyxHQUFHLCtFQUNkTyxDQUFFOzBDQUNBUCxHQUFHLENBQUNFLEtBQUssSUFBSSxDQUFVLFlBQUdJLENBQUMsR0FBQyxDQUFDLEdBQUdELElBQUksQ0FBQ0wsR0FBRyxDQUFDUSxRQUFROytCQUQzQ1IsR0FBRyxDQUFDRyxFQUFFOzs7Ozs7dUJBRlZHLENBQUM7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBV3BCLENBQUMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL1VJL3RhYmxlL3RhYmxlLmpzP2UyYzAiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IENhcmQgZnJvbSBcIi4uL2NhcmQvY2FyZFwiO1xuaW1wb3J0IHN0eWxlcyBmcm9tIFwiLi90YWJsZS5tb2R1bGUuY3NzXCI7XG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFRhYmxlKHByb3BzKSB7XG4gIGNvbnN0IGRhdGEgPSBwcm9wcy5kYXRhO1xuICBjb25zdCBjb2x1bW5zID0gcHJvcHMuY29sdW1ucztcblxuICBjb25zb2xlLmxvZyhkYXRhKVxuICByZXR1cm4gKFxuICAgIC8vIFRPRE86IGNvbnZlcnQgdG8gTVVJXG4gICAgPHRhYmxlIGNsYXNzTmFtZT17c3R5bGVzLnRhYmxlfT5cbiAgICAgIDx0aGVhZD5cbiAgICAgICAgPHRyPlxuICAgICAgICAgIHtjb2x1bW5zLm1hcCgoY29sKSA9PiAoXG4gICAgICAgICAgICA8dGgga2V5PXtjb2wuaWR9Pntjb2wudGl0bGV9PC90aD5cbiAgICAgICAgICApKX1cbiAgICAgICAgPC90cj5cbiAgICAgIDwvdGhlYWQ+XG4gICAgICA8dGJvZHk+XG4gICAgICAgIHtkYXRhLm1hcCgodGVhbSwgaSkgPT4gKFxuICAgICAgICAgIDx0ciBrZXk9e2l9PlxuICAgICAgICAgICAge2NvbHVtbnMubWFwKChjb2wpID0+IChcbiAgICAgICAgICAgICAgPHRkIGtleT17Y29sLmlkfT5cbiAgICAgICAgICAgICAgICB7Y29sLnRpdGxlID09IFwiUG9zaXRpb25cIiA/IGkrMSA6IHRlYW1bY29sLmFjY2Vzc29yXX1cbiAgICAgICAgICAgICAgPC90ZD5cbiAgICAgICAgICAgICkpfVxuICAgICAgICAgIDwvdHI+XG4gICAgICAgICkpfVxuICAgICAgPC90Ym9keT5cbiAgICA8L3RhYmxlPlxuICApO1xufVxuIl0sIm5hbWVzIjpbIkNhcmQiLCJzdHlsZXMiLCJUYWJsZSIsInByb3BzIiwiZGF0YSIsImNvbHVtbnMiLCJjb25zb2xlIiwibG9nIiwidGFibGUiLCJjbGFzc05hbWUiLCJ0aGVhZCIsInRyIiwibWFwIiwiY29sIiwidGgiLCJ0aXRsZSIsImlkIiwidGJvZHkiLCJ0ZWFtIiwiaSIsInRkIiwiYWNjZXNzb3IiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/UI/table/table.js\n");
+
+/***/ }),
+
+/***/ "./data/cleansheets.js":
+/*!*****************************!*\
+  !*** ./data/cleansheets.js ***!
+  \*****************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"CLEANSHEETS\": () => (/* binding */ CLEANSHEETS)\n/* harmony export */ });\nconst CLEANSHEETS = [\n    {\n        id: 1,\n        position: 1,\n        name: \"Karmavinga\",\n        team: \"Peaky Blinders\",\n        cleansheets: 50\n    },\n    {\n        id: 2,\n        position: 2,\n        name: \"Ebisane\",\n        team: \"WJBNMC\",\n        cleansheets: 49\n    },\n    {\n        id: 3,\n        position: 3,\n        name: \"Gbade\",\n        team: \"Peaky Blinders\",\n        cleansheets: 48\n    },\n    {\n        id: 4,\n        position: 4,\n        name: \"Bokem\",\n        team: \"WJBNMC\",\n        cleansheets: 47\n    },\n    {\n        id: 5,\n        position: 5,\n        name: \"Somzy\",\n        team: \"WJBNMC\",\n        cleansheets: 46\n    }, \n];\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9kYXRhL2NsZWFuc2hlZXRzLmpzLmpzIiwibWFwcGluZ3MiOiI7Ozs7QUFBTyxLQUFLLENBQUNBLFdBQVcsR0FBRyxDQUFDO0lBQzFCLENBQUM7UUFDQ0MsRUFBRSxFQUFFLENBQUM7UUFDTEMsUUFBUSxFQUFFLENBQUM7UUFDWEMsSUFBSSxFQUFFLENBQVk7UUFDbEJDLElBQUksRUFBRSxDQUFnQjtRQUN0QkMsV0FBVyxFQUFFLEVBQUU7SUFDakIsQ0FBQztJQUNELENBQUM7UUFDQ0osRUFBRSxFQUFFLENBQUM7UUFDTEMsUUFBUSxFQUFFLENBQUM7UUFDWEMsSUFBSSxFQUFFLENBQVM7UUFDZkMsSUFBSSxFQUFFLENBQVE7UUFDZEMsV0FBVyxFQUFFLEVBQUU7SUFDakIsQ0FBQztJQUNELENBQUM7UUFDQ0osRUFBRSxFQUFFLENBQUM7UUFDTEMsUUFBUSxFQUFFLENBQUM7UUFDWEMsSUFBSSxFQUFFLENBQU87UUFDYkMsSUFBSSxFQUFFLENBQWdCO1FBQ3RCQyxXQUFXLEVBQUUsRUFBRTtJQUNqQixDQUFDO0lBQ0QsQ0FBQztRQUNDSixFQUFFLEVBQUUsQ0FBQztRQUNMQyxRQUFRLEVBQUUsQ0FBQztRQUNYQyxJQUFJLEVBQUUsQ0FBTztRQUNiQyxJQUFJLEVBQUUsQ0FBUTtRQUNkQyxXQUFXLEVBQUUsRUFBRTtJQUNqQixDQUFDO0lBQ0QsQ0FBQztRQUNDSixFQUFFLEVBQUUsQ0FBQztRQUNMQyxRQUFRLEVBQUUsQ0FBQztRQUNYQyxJQUFJLEVBQUUsQ0FBTztRQUNiQyxJQUFJLEVBQUUsQ0FBUTtRQUNkQyxXQUFXLEVBQUUsRUFBRTtJQUNqQixDQUFDO0FBQ0gsQ0FBQyIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL2RhdGEvY2xlYW5zaGVldHMuanM/Y2M1YSJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY29uc3QgQ0xFQU5TSEVFVFMgPSBbXG4gIHtcbiAgICBpZDogMSxcbiAgICBwb3NpdGlvbjogMSxcbiAgICBuYW1lOiBcIkthcm1hdmluZ2FcIixcbiAgICB0ZWFtOiBcIlBlYWt5IEJsaW5kZXJzXCIsXG4gICAgY2xlYW5zaGVldHM6IDUwXG4gIH0sXG4gIHtcbiAgICBpZDogMixcbiAgICBwb3NpdGlvbjogMixcbiAgICBuYW1lOiBcIkViaXNhbmVcIixcbiAgICB0ZWFtOiBcIldKQk5NQ1wiLFxuICAgIGNsZWFuc2hlZXRzOiA0OVxuICB9LFxuICB7XG4gICAgaWQ6IDMsXG4gICAgcG9zaXRpb246IDMsXG4gICAgbmFtZTogXCJHYmFkZVwiLFxuICAgIHRlYW06IFwiUGVha3kgQmxpbmRlcnNcIixcbiAgICBjbGVhbnNoZWV0czogNDhcbiAgfSxcbiAge1xuICAgIGlkOiA0LFxuICAgIHBvc2l0aW9uOiA0LFxuICAgIG5hbWU6IFwiQm9rZW1cIixcbiAgICB0ZWFtOiBcIldKQk5NQ1wiLFxuICAgIGNsZWFuc2hlZXRzOiA0N1xuICB9LFxuICB7XG4gICAgaWQ6IDUsXG4gICAgcG9zaXRpb246IDUsXG4gICAgbmFtZTogXCJTb216eVwiLFxuICAgIHRlYW06IFwiV0pCTk1DXCIsXG4gICAgY2xlYW5zaGVldHM6IDQ2XG4gIH0sXG5dOyJdLCJuYW1lcyI6WyJDTEVBTlNIRUVUUyIsImlkIiwicG9zaXRpb24iLCJuYW1lIiwidGVhbSIsImNsZWFuc2hlZXRzIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./data/cleansheets.js\n");
+
+/***/ }),
+
+/***/ "./pages/cleansheets.js":
+/*!******************************!*\
+  !*** ./pages/cleansheets.js ***!
+  \******************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"getServerSideProps\": () => (/* binding */ getServerSideProps),\n/* harmony export */   \"default\": () => (/* binding */ Cleansheet)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/router */ \"next/router\");\n/* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _components_UI_container_container__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/UI/container/container */ \"./components/UI/container/container.js\");\n/* harmony import */ var _components_UI_grid_grid__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/UI/grid/grid */ \"./components/UI/grid/grid.js\");\n/* harmony import */ var _components_UI_table_table__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/UI/table/table */ \"./components/UI/table/table.js\");\n/* harmony import */ var _data_cleansheets__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../data/cleansheets */ \"./data/cleansheets.js\");\n\n\n\n\n\n\n\nasync function getServerSideProps(context) {\n    const token = context.req.cookies.token;\n    const settings = {\n        headers: {\n            'Accept': 'application/json',\n            'Content-Type': 'application/json',\n            'Authorization': token\n        }\n    };\n    const res = await fetch(`http://localhost:5000/users`, settings);\n    if (res.status === 401) {\n        return {\n            redirect: {\n                permanent: false,\n                destination: \"/signin\"\n            },\n            props: {}\n        };\n    } else {\n        const data = await res.json();\n        const columns = [\n            {\n                id: 1,\n                title: \"Position\",\n                accessor: \"position\"\n            },\n            {\n                id: 2,\n                title: \"Username\",\n                accessor: \"username\"\n            },\n            {\n                id: 3,\n                title: \"Team\",\n                accessor: \"team_id\"\n            },\n            {\n                id: 4,\n                title: \"Played\",\n                accessor: \"played\"\n            },\n            {\n                id: 5,\n                title: \"Cleansheets\",\n                accessor: \"cleansheets\"\n            }\n        ];\n        return {\n            props: {\n                cleansheets: data,\n                columns: columns\n            }\n        };\n    }\n}\nfunction Cleansheet({ cleansheets , columns  }) {\n    return(/*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_UI_container_container__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"h3\", {\n                children: \"CLEANSHEETS\"\n            }, void 0, false, {\n                fileName: \"/Users/theodore/dev/shakuchiefs/client/pages/cleansheets.js\",\n                lineNumber: 50,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_UI_grid_grid__WEBPACK_IMPORTED_MODULE_4__[\"default\"], {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_UI_table_table__WEBPACK_IMPORTED_MODULE_5__[\"default\"], {\n                    data: cleansheets,\n                    columns: columns\n                }, void 0, false, {\n                    fileName: \"/Users/theodore/dev/shakuchiefs/client/pages/cleansheets.js\",\n                    lineNumber: 52,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/Users/theodore/dev/shakuchiefs/client/pages/cleansheets.js\",\n                lineNumber: 51,\n                columnNumber: 7\n            }, this)\n        ]\n    }, void 0, true, {\n        fileName: \"/Users/theodore/dev/shakuchiefs/client/pages/cleansheets.js\",\n        lineNumber: 49,\n        columnNumber: 5\n    }, this));\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9jbGVhbnNoZWV0cy5qcy5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7Ozs7O0FBQWlDO0FBQ0Q7QUFFNEI7QUFDZjtBQUNHO0FBQ0M7QUFFMUMsZUFBZU0sa0JBQWtCLENBQUNDLE9BQU8sRUFBRSxDQUFDO0lBQ2pELEtBQUssQ0FBQ0MsS0FBSyxHQUFHRCxPQUFPLENBQUNFLEdBQUcsQ0FBQ0MsT0FBTyxDQUFDRixLQUFLO0lBQ3ZDLEtBQUssQ0FBQ0csUUFBUSxHQUFHLENBQUM7UUFDaEJDLE9BQU8sRUFBRSxDQUFDO1lBQ1IsQ0FBUSxTQUFFLENBQWtCO1lBQzVCLENBQWMsZUFBRSxDQUFrQjtZQUNsQyxDQUFlLGdCQUFFSixLQUFLO1FBQ3hCLENBQUM7SUFDSCxDQUFDO0lBQ0QsS0FBSyxDQUFDSyxHQUFHLEdBQUcsS0FBSyxDQUFDQyxLQUFLLEVBQUUsMkJBQTJCLEdBQUdILFFBQVE7SUFDL0QsRUFBRSxFQUFDRSxHQUFHLENBQUNFLE1BQU0sS0FBSyxHQUFHLEVBQUMsQ0FBQztRQUNyQixNQUFNLENBQUMsQ0FBQztZQUNOQyxRQUFRLEVBQUUsQ0FBQztnQkFDVEMsU0FBUyxFQUFFLEtBQUs7Z0JBQ2hCQyxXQUFXLEVBQUUsQ0FBUztZQUN4QixDQUFDO1lBQ0RDLEtBQUssRUFBQyxDQUFDLENBQUM7UUFDVixDQUFDO0lBQ0gsQ0FBQyxNQUFJLENBQUM7UUFDSixLQUFLLENBQUNDLElBQUksR0FBRyxLQUFLLENBQUNQLEdBQUcsQ0FBQ1EsSUFBSTtRQUMzQixLQUFLLENBQUNDLE9BQU8sR0FBRyxDQUFDO1lBQ2YsQ0FBQ0M7Z0JBQUFBLEVBQUUsRUFBRSxDQUFDO2dCQUFFQyxLQUFLLEVBQUUsQ0FBVTtnQkFBRUMsUUFBUSxFQUFFLENBQVU7WUFBQSxDQUFDO1lBQ2hELENBQUNGO2dCQUFBQSxFQUFFLEVBQUUsQ0FBQztnQkFBRUMsS0FBSyxFQUFFLENBQVU7Z0JBQUVDLFFBQVEsRUFBRSxDQUFVO1lBQUEsQ0FBQztZQUNoRCxDQUFDRjtnQkFBQUEsRUFBRSxFQUFFLENBQUM7Z0JBQUVDLEtBQUssRUFBRSxDQUFNO2dCQUFFQyxRQUFRLEVBQUUsQ0FBUztZQUFBLENBQUM7WUFDM0MsQ0FBQ0Y7Z0JBQUFBLEVBQUUsRUFBRSxDQUFDO2dCQUFFQyxLQUFLLEVBQUUsQ0FBUTtnQkFBRUMsUUFBUSxFQUFFLENBQVE7WUFBQSxDQUFDO1lBQzVDLENBQUNGO2dCQUFBQSxFQUFFLEVBQUUsQ0FBQztnQkFBRUMsS0FBSyxFQUFFLENBQWE7Z0JBQUVDLFFBQVEsRUFBRSxDQUFhO1lBQUEsQ0FBQztRQUN4RCxDQUFDO1FBRUQsTUFBTSxDQUFDLENBQUM7WUFDTk4sS0FBSyxFQUFFLENBQUM7Z0JBQ05PLFdBQVcsRUFBRU4sSUFBSTtnQkFDakJFLE9BQU8sRUFBRUEsT0FBTztZQUNsQixDQUFDO1FBQ0gsQ0FBQztJQUNILENBQUM7QUFDSCxDQUFDO0FBRWMsUUFBUSxDQUFDSyxVQUFVLENBQUMsQ0FBQyxDQUFDRCxXQUFXLEdBQUVKLE9BQU8sRUFBQyxDQUFDLEVBQUUsQ0FBQztJQUU1RCxNQUFNLDZFQUNIcEIsMEVBQVM7O3dGQUNQMEIsQ0FBRTswQkFBQyxDQUFXOzs7Ozs7d0ZBQ2R6QixnRUFBSTtzR0FDRkMsa0VBQUs7b0JBQUNnQixJQUFJLEVBQUVNLFdBQVc7b0JBQUVKLE9BQU8sRUFBRUEsT0FBTzs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFJbEQsQ0FBQyIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL3BhZ2VzL2NsZWFuc2hlZXRzLmpzPzc0OTUiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgdXNlRWZmZWN0IH0gZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgUm91dGVyIGZyb20gXCJuZXh0L3JvdXRlclwiXG5cbmltcG9ydCBDb250YWluZXIgZnJvbSBcIi4uL2NvbXBvbmVudHMvVUkvY29udGFpbmVyL2NvbnRhaW5lclwiO1xuaW1wb3J0IEdyaWQgZnJvbSBcIi4uL2NvbXBvbmVudHMvVUkvZ3JpZC9ncmlkXCI7XG5pbXBvcnQgVGFibGUgZnJvbSBcIi4uL2NvbXBvbmVudHMvVUkvdGFibGUvdGFibGVcIjtcbmltcG9ydCB7IENMRUFOU0hFRVRTIH0gZnJvbSBcIi4uL2RhdGEvY2xlYW5zaGVldHNcIjtcblxuZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldFNlcnZlclNpZGVQcm9wcyhjb250ZXh0KSB7XG4gIGNvbnN0IHRva2VuID0gY29udGV4dC5yZXEuY29va2llcy50b2tlblxuICBjb25zdCBzZXR0aW5ncyA9IHtcbiAgICBoZWFkZXJzOiB7XG4gICAgICAnQWNjZXB0JzogJ2FwcGxpY2F0aW9uL2pzb24nLFxuICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyxcbiAgICAgICdBdXRob3JpemF0aW9uJzogdG9rZW5cbiAgICB9XG4gIH1cbiAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goYGh0dHA6Ly9sb2NhbGhvc3Q6NTAwMC91c2Vyc2AsIHNldHRpbmdzKVxuICBpZihyZXMuc3RhdHVzID09PSA0MDEpe1xuICAgIHJldHVybiB7XG4gICAgICByZWRpcmVjdDoge1xuICAgICAgICBwZXJtYW5lbnQ6IGZhbHNlLFxuICAgICAgICBkZXN0aW5hdGlvbjogXCIvc2lnbmluXCIsXG4gICAgICB9LFxuICAgICAgcHJvcHM6e30sXG4gICAgfTtcbiAgfWVsc2V7XG4gICAgY29uc3QgZGF0YSA9IGF3YWl0IHJlcy5qc29uKClcbiAgICBjb25zdCBjb2x1bW5zID0gW1xuICAgICAge2lkOiAxLCB0aXRsZTogXCJQb3NpdGlvblwiLCBhY2Nlc3NvcjogXCJwb3NpdGlvblwifSxcbiAgICAgIHtpZDogMiwgdGl0bGU6IFwiVXNlcm5hbWVcIiwgYWNjZXNzb3I6IFwidXNlcm5hbWVcIn0sXG4gICAgICB7aWQ6IDMsIHRpdGxlOiBcIlRlYW1cIiwgYWNjZXNzb3I6IFwidGVhbV9pZFwifSxcbiAgICAgIHtpZDogNCwgdGl0bGU6IFwiUGxheWVkXCIsIGFjY2Vzc29yOiBcInBsYXllZFwifSxcbiAgICAgIHtpZDogNSwgdGl0bGU6IFwiQ2xlYW5zaGVldHNcIiwgYWNjZXNzb3I6IFwiY2xlYW5zaGVldHNcIn1cbiAgICBdXG5cbiAgICByZXR1cm4ge1xuICAgICAgcHJvcHM6IHtcbiAgICAgICAgY2xlYW5zaGVldHM6IGRhdGEsXG4gICAgICAgIGNvbHVtbnM6IGNvbHVtbnNcbiAgICAgIH1cbiAgICB9XG4gIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQ2xlYW5zaGVldCh7IGNsZWFuc2hlZXRzLCBjb2x1bW5zIH0pIHtcblxuICByZXR1cm4oXG4gICAgPENvbnRhaW5lcj5cbiAgICAgIDxoMz5DTEVBTlNIRUVUUzwvaDM+XG4gICAgICA8R3JpZD5cbiAgICAgICAgPFRhYmxlIGRhdGE9e2NsZWFuc2hlZXRzfSBjb2x1bW5zPXtjb2x1bW5zfS8+XG4gICAgICA8L0dyaWQ+XG4gICAgPC9Db250YWluZXI+XG4gIClcbn0iXSwibmFtZXMiOlsidXNlRWZmZWN0IiwiUm91dGVyIiwiQ29udGFpbmVyIiwiR3JpZCIsIlRhYmxlIiwiQ0xFQU5TSEVFVFMiLCJnZXRTZXJ2ZXJTaWRlUHJvcHMiLCJjb250ZXh0IiwidG9rZW4iLCJyZXEiLCJjb29raWVzIiwic2V0dGluZ3MiLCJoZWFkZXJzIiwicmVzIiwiZmV0Y2giLCJzdGF0dXMiLCJyZWRpcmVjdCIsInBlcm1hbmVudCIsImRlc3RpbmF0aW9uIiwicHJvcHMiLCJkYXRhIiwianNvbiIsImNvbHVtbnMiLCJpZCIsInRpdGxlIiwiYWNjZXNzb3IiLCJjbGVhbnNoZWV0cyIsIkNsZWFuc2hlZXQiLCJoMyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./pages/cleansheets.js\n");
+
+/***/ }),
+
+/***/ "next/router":
+/*!******************************!*\
+  !*** external "next/router" ***!
+  \******************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("next/router");
+
+/***/ }),
+
+/***/ "react":
+/*!************************!*\
+  !*** external "react" ***!
+  \************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("react");
+
+/***/ }),
+
+/***/ "react/jsx-dev-runtime":
+/*!****************************************!*\
+  !*** external "react/jsx-dev-runtime" ***!
+  \****************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("react/jsx-dev-runtime");
+
+/***/ })
+
+};
+;
+
+// load runtime
+var __webpack_require__ = require("../webpack-runtime.js");
+__webpack_require__.C(exports);
+var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
+var __webpack_exports__ = (__webpack_exec__("./pages/cleansheets.js"));
+module.exports = __webpack_exports__;
+
+})();
